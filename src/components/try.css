@@ -1,0 +1,61 @@
+#div0{
+     --tw-bg-opacity: 1;
+    padding-top: 1.25rem/* 20px */;
+    padding-bottom: 1.25rem/* 20px */;
+    background-image: linear-gradient(to right, var(--tw-gradient-stops));
+    --tw-gradient-from: #d97706;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(217, 119, 6, 0));
+    --tw-gradient-to: #dc2626;
+
+}
+#center1{
+    font-size: 1.875rem/* 30px */;
+    line-height: 2.25rem/* 36px */;
+    --tw-text-opacity: 1;
+    font-weight: 700;
+    color: rgba(67, 56, 202, var(--tw-text-opacity));
+}
+#div1{
+    --tw-bg-opacity: 1;
+    background-color: rgba(252, 211, 77, var(--tw-bg-opacity));
+    padding-left: 1.5rem/* 24px */;
+    padding-right: 1.5rem/* 24px */;
+}
+#div2{
+    margin: 2rem/* 32px */;
+}
+#div3{
+    margin: 1rem/* 16px */;
+    padding-left: 1.75rem/* 28px */;
+    padding-right: 1.75rem/* 28px */;
+}
+#div4{
+    height: 20rem/* 320px */;
+    --tw-bg-opacity: 1;
+    background-image: linear-gradient(to right, var(--tw-gradient-stops));
+    --tw-gradient-from: #ec4899;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(236, 72, 153, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #ef4444, var(--tw-gradient-to, rgba(239, 68, 68, 0));
+    --tw-gradient-to: #f59e0b;
+    border-radius: 20px;
+    width: 20rem;
+}
+#div5{
+    padding-top: 0.75rem/* 12px */;
+    padding-bottom: 0.75rem/* 12px */;
+    --tw-translate-y: 0.875rem/* 14px */;
+}
+#div6{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.5rem/* 24px */;
+    line-height: 2rem/* 32px */;
+    padding-left: 0.75rem/* 12px */;
+    padding-right: 0.75rem/* 12px */;
+    padding-top: 1rem/* 16px */;
+    padding-bottom: 1rem/* 16px */;
+
+}
+#img1{
+    border-radius: 10%;
+}
